@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NodeBasedSet
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NodeBasedSet\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=NodeBasedSet()
+comment2.params=
+comment2.target=int\ size()
+comment3.params=element
+comment3.target=boolean\ memberOf(java.lang.Object)
+comment4.params=element
+comment4.target=void\ add(java.lang.Object)
+comment5.params=element
+comment5.target=void\ delete(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
